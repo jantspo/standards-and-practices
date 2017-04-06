@@ -1,7 +1,7 @@
 # Git Flow
 
 ## Overview
-![GitFlow Diagram](../../../QA/Git-Flow/images/git-flow.png)
+![GitFlow Diagram](../../../gitflow/QA/Git-Flow/images/git-flow.png)
 Git flow is a work pattern designed around maintaining code integrity on larger projects. Stable code is kept separate
 from development code until bugs and issues are worked out. 
 
