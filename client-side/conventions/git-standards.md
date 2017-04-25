@@ -112,6 +112,6 @@
             * Project Lead will create the Pull Request, tag another team member to review it, and close it when they get the go-ahead
 
 
-    3. Proposals:
-        * Change the README.md every time you create a new branch and state the purpose of the branch there (to let others know which branch has latest code)
-            > Expect CONFLICT in the Pull Request for README.md OR change the readme back to original before your Pull Request
+3. Proposals:
+    * Change the README.md every time you create a new branch and state the purpose of the branch there (to let others know which branch has latest code)
+        > Expect CONFLICT in the Pull Request for README.md OR change the readme back to original before your Pull Request
