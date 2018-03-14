@@ -4,11 +4,10 @@
 
 * Each repo should be split up as follows:
     1. Create labels for your features
-        *  Name format will be `feature-component` (think of it as overall purpose vs. piece of the whole)
+        *  Name format will be `feature-component` (think of it as overall purpose vs. piece of the whole, ie. `users-authentication`)
 
     2. Create branches for your features
-        *  Name format will be `feature-component` (think of it as overall purpose vs. piece of the whole)
-            > Interesting Point: Every label name will have a branch name and vise-versa
+        *  Name format will be `feature-component` (Every label name will have an identical branch name and vise-versa)
 
     3. Create issues for specific need for each feature
         * Add the feature label to the issue
